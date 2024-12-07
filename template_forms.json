@@ -1,0 +1,38 @@
+{
+  "forms": {
+    "1": {
+      "customer_email": "email",
+      "customer_phone": "phone",
+      "form_name": "Order Form",
+      "order_date": "date",
+      "order_number": "text"
+    },
+    "2": {
+      "birthdate": "date",
+      "email": "email",
+      "first_name": "text",
+      "form_name": "User Registration",
+      "last_name": "text",
+      "phone_number": "phone"
+    },
+    "3": {
+      "email": "email",
+      "form_name": "Feedback Form",
+      "message": "text",
+      "submitted_at": "date",
+      "user_name": "text"
+    },
+    "4": {
+      "email": "email",
+      "form_name": "Newsletter Subscription",
+      "subscription_date": "date"
+    },
+    "5": {
+      "customer_email": "email",
+      "customer_phone": "phone",
+      "form_name": "Service Request Form",
+      "requested_date": "date",
+      "service_type": "text"
+    }
+  }
+}
